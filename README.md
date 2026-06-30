@@ -110,6 +110,3 @@ A hands-on lab series demonstrating enterprise identity management using Microso
 ## Tech Stack
 `Microsoft Entra ID` `Microsoft 365 E5` `Conditional Access` `SAML 2.0` `Salesforce` `Azure`
 
-## Related Repositories
-- [Active Directory & GPO Lab](#) <!-- update with actual link -->
-- [Intune Endpoint Management Lab](#) <!-- update with actual link -->
