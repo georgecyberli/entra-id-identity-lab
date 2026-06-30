@@ -105,7 +105,7 @@ A hands-on lab series demonstrating enterprise identity management using Microso
 ### Skills Demonstrated
 `SAML 2.0` `Federated Identity` `SaaS Integration` `Cross-Platform Troubleshooting`
 
-
+---
 
 ## Tech Stack
 `Microsoft Entra ID` `Microsoft 365 E5` `Conditional Access` `SAML 2.0` `Salesforce` `Azure`
